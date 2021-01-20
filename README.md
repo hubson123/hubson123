@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently working on my Engineer's Thesis. ;)
+I'm currently looking for a job as a Business-System Analyst or Junior .Net developer. ;)
 
 
 <!--

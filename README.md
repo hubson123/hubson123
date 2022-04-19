@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm currently looking for a job as a Business-System Analyst or Junior React Developer. ;)
+I'm currently looking for a job as a React Developer. ;)
 
 
 <!--
